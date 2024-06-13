@@ -40,7 +40,7 @@ function mix( $path, $args = [] ) {
 
 	$defaults = [
 		'is_child'           => false,
-		'manifest_directory' => 'build',
+		'manifest_directory' => '',
 	];
 
 	/**
